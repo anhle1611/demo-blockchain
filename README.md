@@ -21,6 +21,11 @@ Run the example:
 pnpm start process --config ~/config.yaml
 ```
 
+Run the example:
+```
+pnpm start crawler
+```
+
 ## Explanation
 This example provides a basic processor that extracts events from user transactions and logs them.
 
