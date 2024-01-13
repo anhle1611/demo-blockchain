@@ -1,0 +1,5 @@
+chain_id: 1
+grpc_data_stream_endpoint: grpc.mainnet.aptoslabs.com:443
+grpc_data_stream_api_key: aptoslabs_D3cuEhAW8gV_DWxyo5WcD7CqqmaFcAedbcnvGvAft7XuD
+starting_version: 359858700
+db_connection_uri: "postgresql://postgres:12345678@localhost:5432/example_event"
